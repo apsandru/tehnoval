@@ -97,14 +97,13 @@ ul {
     text-transform: uppercase;
     font-weight: 700;
     font-style: normal;
-    margin: 70px;
-    margin-top: 143px;
+    margin: 5%;
     padding: 0;
     width: 30%;
     vertical-align: middle;
     line-height: 1em;
     z-index: 1;
-    position: absolute;
+    position: relative;
     color: #e2fdff;
   }
   .maintext {
