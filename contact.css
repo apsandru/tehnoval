@@ -88,9 +88,8 @@ ul {
     background-color:#3d5a80 ;
   }
   .imgcontact {
-    position: absolute;
+     position: relative;
 width: 250px;
-height: 250px;
+height: 200px;
 float: left;
-top: 150px;
   }
